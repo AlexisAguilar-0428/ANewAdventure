@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+h1{
+    text-decoration: underline;
+    font-size: 50px;
+    color: indianred;
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+
+img{
+    border: 2px solid white;
+}
+
+a{
+    color: gold;
+    text-decoration: none;
+}
+
+a:hover{
+    color: indianred;
+}
